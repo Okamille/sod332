@@ -1,0 +1,17 @@
+-5.0  //-xmin
+5.0  //-xmax
+-5.0  //-ymin
+5.0  //-ymax
+30  //-Nx1
+30  //-Ny1
+30  //-Nx2
+30  //-Ny2
+6.0   //-T
+0.0   //-min_velocity_player1
+0.1   //-max_velocity_player1
+0.0   //-min_velocity_player2
+0.8 //-max_velocity_player2
+1.2  //-RR
+0.0 //-target_X0
+4.0  //-target_Y0
+0.5  //-target_radius
